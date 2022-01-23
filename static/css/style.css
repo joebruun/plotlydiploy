@@ -1,0 +1,9 @@
+body {
+
+  color:"blue";
+}
+.jumbotron {
+   background-image: url("https://i2.wp.com/www.ecomena.org/wp-content/uploads/2013/07/microbial-biodiversity.jpg?ssl=1")
+  background-size: 100% 100%;
+  text-align: center;
+}
